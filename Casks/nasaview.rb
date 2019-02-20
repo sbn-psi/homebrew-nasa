@@ -6,5 +6,5 @@ cask 'nasaview' do
   name 'NASAView'
   homepage 'https://pds.jpl.nasa.gov/tools/nasa-view.shtml'
 
-  app 'nasaview-#{version}_mac_intel/NASAView.app'
+  app "nasaview-#{version}_mac_intel/NASAView.app"
 end
